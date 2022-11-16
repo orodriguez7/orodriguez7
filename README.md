@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Omar Rodriguez from Buenos Aires, Argentina.
 - 👀 I’m interested in technology, sports, some gaming and coding, of course.
 - 🌱 I’m currently learning Python/Django and JS.
-- 💞️ I’m looking to collaborate on any good project. Learning by doing, dude.
+- 💞️ I’m looking forward to collaborate on any good project and learning everything I can.
 - 📫 How to reach me? linkedin.com/in/oma-rodriguez
 
 <!---
